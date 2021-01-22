@@ -1,0 +1,13 @@
+.cust-cont {
+  margin-top: 10%;
+  border: 2px rgb(59, 156, 253) solid;
+  border-radius: 10px;
+}
+
+.center {
+  height: 60vh;
+}
+
+.bg-color {
+  background-color: rgb(59, 156, 253);
+}
